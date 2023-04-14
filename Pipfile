@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+ipykernel = "*"
+pandas = "*"
+gdown = "*"
+opencv-python = "*"
+scikit-learn = "*"
+tensorflow = "*"
+umap-learn = "*"
+flask = "*"
+flask-wtf = "*"
+flask-bootstrap = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
