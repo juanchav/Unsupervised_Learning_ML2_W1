@@ -172,6 +172,8 @@ poetry.toml
 # others
 *.mnz
 *.npz
+*.jpg
+*.png
 
 # LSP config files
 pyrightconfig.json
