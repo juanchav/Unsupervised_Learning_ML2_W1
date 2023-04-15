@@ -1,7 +1,6 @@
 # Unsupervised Learning Workshop1
 
-Here we are going to explore how some unsupervised learning methods have been built! 
-
+We will study some unsupervised learning methods to reduce dimensionality in order to learn the basics of them
 
 ## Files (notebooks a py files):
 
